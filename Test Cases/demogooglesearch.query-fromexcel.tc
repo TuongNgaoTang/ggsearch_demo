@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>demogooglesearch.query-fromexcel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0de6b6b0-9589-4c40-a676-014a0cae0b78</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('demogooglsearch').getValue('query', index)</defaultValue>
+      <description></description>
+      <id>4bd15afe-710e-4a3b-be50-8b6d0afbd71c</id>
+      <masked>false</masked>
+      <name>query_fromexcel</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('demogooglsearch').getValue('feeling lucky', index)</defaultValue>
+      <description></description>
+      <id>8d9907a7-7415-46ab-a1aa-6d0593759efa</id>
+      <masked>false</masked>
+      <name>feeling_lucky</name>
+   </variable>
+</TestCaseEntity>
